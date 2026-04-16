@@ -3,7 +3,7 @@ Genshi==0.6
 PyYAML==3.10
 hiredis==0.1.1
 py==1.4.7
-pytest==2.2.3
+pytest==9.0.3
 redis==2.4.12
 uWSGI==1.9.14
 warc
